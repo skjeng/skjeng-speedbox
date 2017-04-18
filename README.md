@@ -1,6 +1,7 @@
 # skjeng-speedbox
 
-| ------------- |:-------------:|
+| Tables        | Are           |
+| ------------- | ------------- |
 | Computer | Hardkernel Odroid-C1 |
 | Operating system | Arch Linux armhf |
 | Charger | Adafruit Powerboost 1000C |
