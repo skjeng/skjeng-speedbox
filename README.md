@@ -1,6 +1,6 @@
 # skjeng-speedbox
 
-| Tables        | Are           |
+| Function        | Description           |
 | ------------- | ------------- |
 | Computer | Hardkernel Odroid-C1 |
 | Operating system | Arch Linux armhf |
